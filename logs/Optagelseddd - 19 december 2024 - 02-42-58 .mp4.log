@@ -1,0 +1,41 @@
+﻿19-12-2024 14:27:31, Version: 27.0.0.85 x64
+19-12-2024 14:27:31, Size: 1920x1080
+19-12-2024 14:27:31, System: NTSC 59.94i
+19-12-2024 14:27:31, Codec: H264
+19-12-2024 14:27:31, Format: UYVY 16 1498831189
+19-12-2024 14:27:31, AudioDevice: vMix Audio
+19-12-2024 14:27:31, AudioFormat: 48000 Hz 16 Bit 2 Channels
+19-12-2024 14:27:31, AudioDelay: 0
+19-12-2024 14:27:31, RestartInterval: 0
+19-12-2024 14:27:31, Buffers: 10
+19-12-2024 14:27:31, BitRate: 8 Mbps
+19-12-2024 14:27:31, AudioBitRate: 384 Kbps
+19-12-2024 14:42:58, StartRecording
+19-12-2024 14:42:59, StopRecording
+19-12-2024 14:42:59, Duration: 00:00:01
+19-12-2024 14:42:59, Frames: 16
+19-12-2024 14:42:59, DroppedFrames: 0
+19-12-2024 14:42:59,   DueToSourceFrameRate: 0
+19-12-2024 14:42:59,   DueToHardDiskOrCPU: 0
+19-12-2024 14:42:59, DroppedSamples: 0
+19-12-2024 14:42:59, MissedSamples: 0
+19-12-2024 14:42:59, SyncedSamples: 0
+19-12-2024 14:42:59, AudioOffset: 12094720
+19-12-2024 14:42:59, AudioDelay: 0
+19-12-2024 14:42:59, AudioEngine
+19-12-2024 14:42:59,   Running: True
+19-12-2024 14:42:59,   SampleRate: 48000hz 16 Bit
+19-12-2024 14:42:59,   MixingErrors: 0
+19-12-2024 14:42:59,     Streams
+19-12-2024 14:42:59,       Mixer
+19-12-2024 14:42:59,         Samples: 48362
+19-12-2024 14:42:59,         Dropped: Read 0 Write 0
+19-12-2024 14:42:59,         Latency: 0 ms
+19-12-2024 14:42:59,         Errors: 0
+19-12-2024 14:42:59,       Audio
+19-12-2024 14:42:59,         Samples: 47577
+19-12-2024 14:42:59,         Dropped: Read 2 Write 0
+19-12-2024 14:42:59,         Latency: 60 ms
+19-12-2024 14:42:59,         TargetLatency: 80 ms
+19-12-2024 14:42:59,         Resampled: 0/40
+19-12-2024 14:42:59,         Errors: 0
